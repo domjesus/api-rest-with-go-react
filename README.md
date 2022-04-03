@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
-Rest Api com Go, PostgresSql e React
-Este projeto usa gorm (lidar com banco de dados sem escrever sql) e gorila (para rodar requisições.
+Rest Api com Go, PostgresSql e React.
+Este projeto usa gorm (lidar com banco de dados sem escrever sql) e gorila (para rodar requisições).
 
 ## Available Scripts
 
